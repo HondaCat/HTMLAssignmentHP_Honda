@@ -1,0 +1,115 @@
+@charset "UTF-8";
+body{
+    background-image: url(),;
+    background-blend-mode: hard-light;
+    background-size: 1500px 725px;
+    background-repeat: no-repeat;
+    max-width: 1800px;
+    margin: 0;
+    padding: 0;
+}
+
+.night{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.night a:hover{
+    color: #49d0a3;
+}
+.hosto{
+    margin: 0 200px;
+    font-size: 2.75rem;
+}
+.clab{
+    font-size: 1.25rem;
+    padding-top: 17px;
+    padding-right: 50px;
+}
+.clab:hover{
+    color: purple;
+}
+.huura{
+    display: flex;
+    justify-content: space-between;
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
+}
+.sikinagi{
+    width:425px;
+    margin-left: 200px;
+    font-size: 2.0rem;
+    font-family: serif;
+}
+.watarai a{
+    
+    font-size: 1.50rem;
+    list-style: none;
+    color: #49d0a3;
+}
+.watarai{
+    list-style: none;
+    margin-top: 30px;
+
+    
+}
+.watarai li{
+
+    color: aquamarine;
+}
+.kanato{
+    font-size: 1.50rem;
+    list-style: none;
+    color: blue;
+
+}
+.kanato a:hover{
+    color: gold;
+}
+.watarai a:hover{
+    color:#d049ab ;
+
+}
+.voltaction{
+    display: flex;
+    flex-direction: column;
+}
+.hondacat{
+    max-width: 1000px;
+    margin-left: 200px;
+}
+.hun{
+    width: 20px;
+    height: 20px;
+}
+.neko{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.reds{
+    color:brown;
+    height: 20chvh;
+    margin: 0px 0px 0px 10px;
+    
+}
+.size{
+    width: 700px;
+    height: 500px;
+    margin-left: 350px;
+}
+
+.kagi{
+    max-width: 1200px;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+
+footer{
+    background-color: #4c2031;
+    height: 50px;
+
+}

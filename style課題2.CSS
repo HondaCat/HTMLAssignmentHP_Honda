@@ -1,0 +1,145 @@
+@charset "UTF-8";
+body{
+    max-width: 1800px;
+    margin: 0;
+    padding: 0;
+    background-color:aliceblue;
+}
+
+.sushi{
+    margin-left: 300px;
+}
+.hosto{
+    margin: 0 200px;
+    font-size: 2.75rem;
+}
+.night{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.clab{
+    font-size: 1.25rem;
+    padding-top: 17px;
+    padding-right: 50px;
+}
+
+.name{
+    display: flex;
+    justify-content: space-between;
+}
+.night a:hover{
+    color: #49d0a3;
+}
+.kor{
+    margin-left: 50px;
+    width: 110px;
+    padding: 10px;
+}
+footer{
+    background-color: #4c2031;
+    height: 80px;
+
+}
+.kagi{
+    color: white;
+    max-width: 1200px;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 10px;
+}
+.kar{
+    width: 110px;
+    padding: 10px;
+}
+.kar2{
+    width: 80%;
+    padding: 10px;
+}
+.kar3{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+}
+.neko{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+.nekodesu{
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+}
+/*--スケジュール----------------------------------------------------------------*/
+
+.kuzuha{
+    display: flex;
+    justify-content: space-between;
+}
+/*-----X(Twitter)--------------------------------------------*/
+.X{
+    margin-left: 100px;
+}
+/*-------お知らせ--------------------------------------------*/
+.size{
+    width: 380px;
+    height: 400px;
+}
+.bottom{
+    margin-bottom: 80px;
+}
+.hun{
+    max-width: 800px;
+    margin-left: 320px;
+}
+/*insta---------------------------------*/
+.insta{
+    margin-left: 300px;
+    color: cornflowerblue;
+    max-width: 800px;
+}
+.narabi{
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin-left: 350px;
+}
+.narabe{
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin-left: 330px;
+}
+.e{
+    display: flex;
+    justify-content: space-between;
+}
+.sukima{
+    width: 500px;
+    height: 500px;
+}
+/*----商品購入------------------------------------------------*/
+.mise{
+
+    display: flex;
+    justify-content: center;
+}
+.koppu{
+    width: 340px;
+    height: 400px;
+}
+.kanbatti{
+    margin-bottom: 150px;
+    margin-left: 300px;
+    max-width: 900px;
+}
+.color{
+    margin-left: 300px;
+    color: blueviolet;
+}
+/*Youtube-----------------------------------*/
+.You{
+    display: flex;
+    justify-content: flex-start;
+}
